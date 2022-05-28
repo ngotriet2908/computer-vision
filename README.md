@@ -1,7 +1,7 @@
 ## Installation
 
 ```
-conda create -n kaggle python=3.8.13
+conda create -n ml-mac python=3.8.13
 
 # Then add conda activate kaggle to the end of ~/.bashrc
 
